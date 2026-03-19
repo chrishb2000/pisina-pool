@@ -18,9 +18,9 @@ const translations = {
         'hero.cta': 'Get a Free Quote',
         
         // About Section
-        'about.title': 'About Ovalle Pool Services',
+        'about.title': 'About JOEY POOL SERVICE',
         'about.subtitle': '15+ Years of Trusted Pool Care in Miami',
-        'about.p1': 'Ovalle Pool Services LLC has been serving the Miami community for over 15 years, providing professional pool cleaning, maintenance, and repair services. Our team of certified experts is dedicated to keeping your pool in pristine condition year-round.',
+        'about.p1': 'JOEY POOL SERVICE has been serving the Miami community for over 15 years, providing professional pool cleaning, maintenance, and repair services. Our team of certified experts is dedicated to keeping your pool in pristine condition year-round.',
         'about.p2': 'We understand that your pool is more than just water – it\'s a place for family gatherings, relaxation, and creating lasting memories. That\'s why we treat every pool as if it were our own, using the highest quality products and the latest industry techniques.',
         'about.feature1': 'Licensed and Insured Professionals',
         'about.feature2': 'Eco-Friendly Cleaning Products',
@@ -64,7 +64,7 @@ const translations = {
         
         // Footer
         'footer.about': 'About Us',
-        'footer.aboutText': 'Ovalle Pool Services LLC - Your trusted partner for professional pool cleaning and maintenance in Miami, FL.',
+        'footer.aboutText': 'JOEY POOL SERVICE - Your trusted partner for professional pool cleaning and maintenance in Miami, FL.',
         'footer.quickLinks': 'Quick Links',
         'footer.legal': 'Legal',
         'footer.privacy': 'Privacy Policy',
@@ -78,7 +78,7 @@ const translations = {
         
         // Privacy Modal
         'privacy.title': 'Privacy Policy',
-        'privacy.content': '<p>At Ovalle Pool Services LLC, we respect your privacy and are committed to protecting your personal information.</p><h3>Information We Collect</h3><p>We collect information that you provide directly to us when contacting us.</p><h3>How We Use Information</h3><p>We use the information we collect to provide, maintain, and improve our services.</p><h3>Data Security</h3><p>We implement appropriate security measures to protect your personal information.</p>',
+        'privacy.content': '<p>At JOEY POOL SERVICE, we respect your privacy and are committed to protecting your personal information.</p><h3>Information We Collect</h3><p>We collect information that you provide directly to us when contacting us.</p><h3>How We Use Information</h3><p>We use the information we collect to provide, maintain, and improve our services.</p><h3>Data Security</h3><p>We implement appropriate security measures to protect your personal information.</p>',
         
         // Cookies Modal
         'cookies.title': 'Cookie Policy',
@@ -99,9 +99,9 @@ const translations = {
         'hero.cta': 'Obtén un Presupuesto Gratis',
         
         // About Section
-        'about.title': 'Sobre Ovalle Pool Services',
+        'about.title': 'Sobre JOEY POOL SERVICE',
         'about.subtitle': 'Más de 15 Años de Confianza en el Cuidado de Piscinas en Miami',
-        'about.p1': 'Ovalle Pool Services LLC ha estado sirviendo a la comunidad de Miami durante más de 15 años, proporcionando servicios profesionales de limpieza, mantenimiento y reparación de piscinas. Nuestro equipo de expertos certificados está dedicado a mantener su piscina en perfectas condiciones durante todo el año.',
+        'about.p1': 'JOEY POOL SERVICE ha estado sirviendo a la comunidad de Miami durante más de 15 años, proporcionando servicios profesionales de limpieza, mantenimiento y reparación de piscinas. Nuestro equipo de expertos certificados está dedicado a mantener su piscina en perfectas condiciones durante todo el año.',
         'about.p2': 'Entendemos que su piscina es más que solo agua: es un lugar para reuniones familiares, relajación y crear recuerdos duraderos. Por eso tratamos cada piscina como si fuera nuestra, utilizando productos de la más alta calidad y las últimas técnicas de la industria.',
         'about.feature1': 'Profesionales con Licencia y Seguro',
         'about.feature2': 'Productos de Limpieza Ecológicos',
@@ -145,7 +145,7 @@ const translations = {
         
         // Footer
         'footer.about': 'Nosotros',
-        'footer.aboutText': 'Ovalle Pool Services LLC - Su socio de confianza para limpieza y mantenimiento profesional de piscinas en Miami, FL.',
+        'footer.aboutText': 'JOEY POOL SERVICE - Su socio de confianza para limpieza y mantenimiento profesional de piscinas en Miami, FL.',
         'footer.quickLinks': 'Enlaces Rápidos',
         'footer.legal': 'Legal',
         'footer.privacy': 'Política de Privacidad',
@@ -159,7 +159,7 @@ const translations = {
         
         // Privacy Modal
         'privacy.title': 'Política de Privacidad',
-        'privacy.content': '<p>En Ovalle Pool Services LLC, respetamos su privacidad y estamos comprometidos a proteger su información personal.</p><h3>Información que Recopilamos</h3><p>Recopilamos información que nos proporciona directamente cuando se comunica con nosotros.</p><h3>Cómo Usamos la Información</h3><p>Usamos la información que recopilamos para proporcionar, mantener y mejorar nuestros servicios.</p><h3>Seguridad de Datos</h3><p>Implementamos medidas de seguridad apropiadas para proteger su información personal.</p>',
+        'privacy.content': '<p>En JOEY POOL SERVICE, respetamos su privacidad y estamos comprometidos a proteger su información personal.</p><h3>Información que Recopilamos</h3><p>Recopilamos información que nos proporciona directamente cuando se comunica con nosotros.</p><h3>Cómo Usamos la Información</h3><p>Usamos la información que recopilamos para proporcionar, mantener y mejorar nuestros servicios.</p><h3>Seguridad de Datos</h3><p>Implementamos medidas de seguridad apropiadas para proteger su información personal.</p>',
         
         // Cookies Modal
         'cookies.title': 'Política de Cookies',
