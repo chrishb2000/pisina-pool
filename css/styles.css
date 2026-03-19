@@ -9,6 +9,8 @@
     --primary-dark: #005f92;
     --primary-light: #48cae4;
     --secondary-color: #00b4d8;
+    --celeste-color: #EBF4F6;
+    --azul-color: #09637E;
     --accent-color: #90e0ef;
     --dark-color: #1a1a2e;
     --light-color: #f8f9fa;
@@ -176,7 +178,7 @@ h4 { font-size: 1.25rem; }
 
 /* Navigation */
 .navbar {
-    background: var(--white);
+    background: var(--celeste-color);
     box-shadow: var(--shadow);
     position: sticky;
     top: 0;
@@ -185,7 +187,7 @@ h4 { font-size: 1.25rem; }
 }
 
 .navbar.scrolled {
-    background: var(--dark-color);
+    background: var(--azul-color);
 }
 
 .navbar.scrolled .nav-link {
@@ -501,7 +503,7 @@ h4 { font-size: 1.25rem; }
 /* Video Section */
 .video-section {
     position: relative;
-    height: 380px;
+    height: 500px;
     overflow: hidden;
     background: #000;
 }
